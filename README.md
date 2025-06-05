@@ -1,4 +1,4 @@
-# Inferência em Raspberry - Treinamento e Otimização de Modelos MNIST
+# Treinamento e Otimização de Modelos MNIST
 
 Este projeto demonstra o processo de treinamento de um modelo CNN no dataset MNIST, convertendo-o para o formato TensorFlow Lite e avaliando seu desempenho. O projeto é estruturado para otimizar modelos para implantação em dispositivos com recursos limitados, como o Raspberry Pi.
 
